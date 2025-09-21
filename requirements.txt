@@ -1,0 +1,7 @@
+# requirements.txt
+transformers
+sentence-transformers
+fastapi
+uvicorn
+pandas
+numpy
