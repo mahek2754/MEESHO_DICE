@@ -1,7 +1,7 @@
-# Meesho Co-Pilot: AI-Driven Discovery & Seller Intelligence
+# Meesho Saathi: AI-Driven Discovery & Seller Intelligence
 
 ## Overview
-Meesho Co-Pilot solves two critical problems:
+Meesho Saathi solves two critical problems:
 
 1. **Customer Discovery Gap** – Existing keyword search fails on nuanced, multi-attribute queries.
 2. **Seller Data Gap** – SMB sellers lack real-time, actionable insights for pricing and inventory.
