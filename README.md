@@ -11,7 +11,6 @@ Our solution combines **semantic search** + **conversational analytics** to boos
 ---
 
 ## Architecture
-![System Architecture](docs/architecture.png)
 
 **Flow Summary**
 - **NLU Service** – Intent + entity detection, query embeddings  
